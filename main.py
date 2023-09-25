@@ -11,7 +11,8 @@ def sum(a, b):
 
 
 
-
+def MyName():
+    return "Kirill"
 
 
 
