@@ -9,7 +9,7 @@ def sum(a, b):
 
 
 
-print(2/0)
+print(2/2)
 
 d = input(int)
 
