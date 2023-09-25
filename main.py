@@ -10,3 +10,7 @@ def sum(a, b):
 
 
 print(2/0)
+
+d = input(int)
+
+print(d)
