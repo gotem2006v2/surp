@@ -9,8 +9,14 @@ def sum(a, b):
 
 
 
-print(2/2)
 
-d = input(int)
 
-print(d)
+
+
+
+
+
+
+
+def HW():
+    return "Hellow world"
